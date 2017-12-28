@@ -47,9 +47,8 @@ public class CPainting extends Canvas implements MouseListener {
   // pixel du canvas, ce qui est necessaire au deplacemet des fourmi
   // il sert aussi pour la fonction paint du Canvas
   private int[][] mCouleurs;
-  // couleur du fond
-  //private Color mCouleurFond = new Color(255, 255, 255);
 
+  // couleur du fond
   //Utiliser le nombre hexadécimal pour remplacer l'objet de Color
   private int mCouleurFond = 0x00FFFFFF;
 
